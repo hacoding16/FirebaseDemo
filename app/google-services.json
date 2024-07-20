@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211332957321",
+    "project_id": "firebasedemo-430010",
+    "storage_bucket": "firebasedemo-430010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211332957321:android:07f8aa9ec3fb14b2543258",
+        "android_client_info": {
+          "package_name": "com.hacoding.firebasedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFrvn5p-fARwdfPlAumNPUFgWJlakG4EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
